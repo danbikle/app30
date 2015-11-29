@@ -5,7 +5,7 @@ The files in this folder come from this folder:
 
 https://github.com/karpathy/convnetjs/tree/master/demo
 
-In this repository:
+Which is in this repository:
 
 https://github.com/karpathy/convnetjs/
 
