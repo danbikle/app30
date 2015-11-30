@@ -98,3 +98,33 @@ The above page behaved like this page:
 http://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html
 
 So, I was happy!
+
+I tinkered a bit with the demo files I found in this folder:
+
+https://github.com/karpathy/convnetjs/tree/master/demo
+
+I got them all to work.
+
+The method I used was to copy a demo from the above folder into my demo folder.
+
+Then I would load the demo into my browser.
+
+Next I looked at the console connected to my web server.
+
+It told me which files where missing.
+
+I then used google and a bit of web sleuthing to locate the files I needed.
+
+Once I found the files I needed I copied them into my ~/Downloads/ folder.
+
+Next, I relied on clues from the console 404-errors to help me place the missing files in good places on my server.
+
+Now, all the demo files run on my laptop.
+
+Also I deployed them here:
+
+https://app30.herokuapp.com
+
+Questions?
+e-me: bikle101@gmail.com
+Dan Bikle
